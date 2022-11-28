@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Devin-C64
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning how to code in python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data structures and how to effectively sort data.
+- 🌱 I’m currently learning how to program in assembly and machine language and how to use graphs with nodes and edges to contain data.
+- 💞️ I’m looking to collaborate on projects orbiting around the archival of data or software engineering
 - 📫 How to reach me: devinjc@udel.edu
 
-<!---
-Devin-C64/Devin-C64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
